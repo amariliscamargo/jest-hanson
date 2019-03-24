@@ -3,6 +3,7 @@
     "jest": "^24.5.0"
   },
   "scripts": {
+    "start": "node modulo1.js",
     "test": "jest" 
   }
 }
