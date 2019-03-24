@@ -4,8 +4,5 @@
   },
   "scripts": {
     "test": "jest" 
-  },
-  "keywords": [
-    "travis"
-]
+  }
 }
