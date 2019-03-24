@@ -9,6 +9,9 @@ const modulo1 = {
 
   func3: () => {
     return 'oi';
+  },
+  func4: () => {
+    return 'e ai';
   }
 }
 
